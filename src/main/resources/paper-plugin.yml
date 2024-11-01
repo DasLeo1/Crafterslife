@@ -1,0 +1,7 @@
+name: Crafterslife
+version: '1.0-SNAPSHOT'
+main: de.crafterslife.crafterslife.Crafterslife
+api-version: '1.21'
+prefix: Moin
+authors: [ Das_Leo_ ]
+description: Crafterslife.de
